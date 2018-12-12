@@ -1,0 +1,19 @@
+{
+  "name": "biston-betularia",
+  "version": "1.0.0",
+  "description": "SLS12 Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcypark/biston-betularia.git"
+  },
+  "author": "Marcella Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcypark/biston-betularia/issues"
+  },
+  "homepage": "https://github.com/marcypark/biston-betularia#readme"
+}
