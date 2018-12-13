@@ -12,51 +12,7 @@
 </head>
 <body>
 
-<script type="text/javascript">
-
-    var config = {
-        type: Phaser.AUTO,
-        width: 800,
-        height: 800,
-        physics: {
-            default: 'arcade',
-            arcade: {
-                gravity: { y: 300 },
-                debug: false
-            }
-        },
-        scene: {
-            preload: preload,
-            create: create,
-            update: update
-        }
-    };
-
-    var game = new Phaser.Game(config);
-
-    function preload ()
-    {
-      this.load.image('melanic', 'assets/melanic.png');
-      this.load.image('nonmelanic', 'assets/nonmelanic.png');
-      this.load.image('lichenless', 'assets/lichenless.png');
-      this.load.image('lichen', 'assets/lichen.png');
-    }
-
-    function create ()
-    {
-      this.add.image(400, 400, 'lichenless');
-      melanics = this.physics.add.group({
-          key: 'melanic',
-          repeat: 11,
-          setXY: { x: 12, y: 0, stepX: 70, stepY: 80 }
-      });
-    }
-
-    function update ()
-    {
-    }
-
-</script>
+<script src="index.js" type="text/javascript"></script>
 
 </body>
 </html>
