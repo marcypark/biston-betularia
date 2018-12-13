@@ -1,7 +1,7 @@
 Marcella Park / SLS 12: Understanding Darwinism / Final Project due 2018-12-13
 
 ## About this project
-To culminate a semester full of nuanced ideas about how populations change, many diverse forms of scientific evidence to do with our origins, and much more, I opted to create a web game representation of the evolution of the peppered-moth, learning how to use Phraser 3 (a JavaScript game engine / coding framework) in the process. Click [here](marcypark.me) to play.
+To culminate a semester full of nuanced ideas about how populations change, many diverse forms of scientific evidence to do with our origins, and much more, I opted to create a web game representation of the evolution of the peppered-moth, learning how to use Phraser 3 (a JavaScript game engine / coding framework) in the process. Click [here](marcypark.me) to play; view the source code [here](https://github.com/marcypark/biston-betularia).
 
 ### How to play
 Your objective: Eat as many moths as you can in five quick rounds! All you must do to eat a moth is find it and click on it, though this may turn out to be more difficult than you're thinking right now ...
